@@ -1,0 +1,3 @@
+server.ip=localhost
+server.port=7777
+server.max.serve.num=20
